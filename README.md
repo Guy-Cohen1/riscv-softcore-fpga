@@ -2,6 +2,10 @@
 
 This repository contains the final project for the Electrical and Computer Engineering program at Ben-Gurion University. The project demonstrates the implementation of a custom RISC-V soft-core processor on the Lattice iCEBreaker FPGA, using only free and open-source tools.
 
+**Supervisor**: Dr. Guy Tel-zur  
+**Institution**: Ben-Gurion University of the Negev  
+**Project Number**: p-2025-033  
+
 ## 🧠 Project Overview
 
 The goal of the project was to design, implement, and test a RISC-V compatible CPU entirely from scratch, using Verilog and open-source FPGA toolchains. The processor supports RV32I instruction set and includes:
@@ -56,12 +60,6 @@ Compiled in C and Assembly and executed on the core (on FPGA or via Verilator):
 - 🌀 Mandelbrot set visualization
 - 🍩 ASCII 3D Donut
 - 🔒 AES-128 Encryption
-
-  ---
-
-**Supervisor**: Dr. Guy Tel-zur  
-**Institution**: Ben-Gurion University of the Negev  
-**Project Number**: p-2025-033  
 
 ## 📚 References
 
