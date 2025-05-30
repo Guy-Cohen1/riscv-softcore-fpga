@@ -57,6 +57,12 @@ Compiled in C and Assembly and executed on the core (on FPGA or via Verilator):
 - 🍩 ASCII 3D Donut
 - 🔒 AES-128 Encryption
 
+  ---
+
+**Supervisor**: Dr. Guy Tel-zur  
+**Institution**: Ben-Gurion University of the Negev  
+**Project Number**: p-2025-033  
+
 ## 📚 References
 
 1. [Bruno Levy – Learn FPGA Project on GitHub](https://github.com/BrunoLevy/learn-fpga/tree/master)
