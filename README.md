@@ -57,3 +57,23 @@ Compiled in C and Assembly and executed on the core (on FPGA or via Verilator):
 - 🍩 ASCII 3D Donut
 - 🔒 AES-128 Encryption
 
+## 📚 References
+
+1. [Bruno Levy – Learn FPGA Project on GitHub](https://github.com/BrunoLevy/learn-fpga/tree/master)
+
+2. John L. Hennessy, David A. Patterson (2012),  
+   **"Computer Architecture: A Quantitative Approach (5th Edition)"**, Stanford University / UC Berkeley
+
+3. David Money Harris, Sarah L. Harris (2013),  
+   **"Digital Design and Computer Architecture (2nd Edition)"**
+
+4. [Fabrice Bellard – π (Pi) Calculation Algorithm](https://bellard.org/pi/pi_n2/pi_n2.html)
+
+5. [Wikipedia – ANSI Escape Code](https://en.wikipedia.org/wiki/ANSI_escape_code)
+
+6. [Andy Sloane – ASCII Donut Demo Code](https://gist.github.com/a1k0n/8ea6516b4946ab36348fb61703dc3194)
+
+7. [Wikipedia – Mandelbrot Set](https://en.wikipedia.org/wiki/Mandelbrot_set)
+
+8. [OpenLUOPWorld – AES-128 Implementation](https://github.com/openluopworld/aes_128/blob/master/README.md)
+
